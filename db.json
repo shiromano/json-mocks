@@ -10,5 +10,16 @@
             "code": "ETH",
             "sign": "Ξ"
         }
+    ],
+
+    "customers": [
+        {
+            "id": "e237626e-6ef9-4e47-8e10-0b1fda919d05",
+            "email": "warriors@greatwall.com"
+        },
+        {
+            "id": "35f5add3-d059-46e6-82d6-afe6949a68d3",
+            "email": "faroh@pyramid.com"
+        }
     ]
 }
