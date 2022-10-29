@@ -1,0 +1,14 @@
+{
+    "coins": [
+        {
+            "name": "Bitcoin",
+            "code": "BTC",
+            "sign": "₿"
+        },
+        {
+            "name": "Ethereum",
+            "code": "ETH",
+            "sign": "Ξ"
+        }
+    ]
+}
